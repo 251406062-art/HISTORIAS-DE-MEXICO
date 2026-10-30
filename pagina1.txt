@@ -1,0 +1,22 @@
+<html>
+<body>
+<center>
+<h1>TEMA 1: Historia de los Aviones</h1>
+<img src="avion.jpg" width="400">
+</center>
+
+<p>Este es un parrafo de texto. Aqui va la informacion de tu tema. Escribe 5 renglones minimo. Por ejemplo: La historia de los aviones empezo con los hermanos Wright en 1903...</p>
+
+<center>
+<table border="1" cellpadding="10">
+<tr bgcolor="black"><td><font color="white">Avion</font></td><td><font color="white">Velocidad</font></td><td><font color="white">Año</font></td></tr>
+<tr><td>Boeing 747</td><td>900 km/h</td><td>1969</td></tr>
+<tr><td>Concorde</td><td>2180 km/h</td><td>1976</td></tr>
+</table>
+<br><br>
+<a href="index.html">INDEX</a> | 
+<a href="pagina1.html">ANTERIOR</a> | 
+<a href="pagina3.html">SIGUIENTE</a>
+</center>
+</body>
+</html>
